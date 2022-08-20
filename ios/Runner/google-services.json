@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514249121722",
+    "project_id": "messageappwatsap",
+    "storage_bucket": "messageappwatsap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514249121722:android:e0634cdbda1da7141b4783",
+        "android_client_info": {
+          "package_name": "com.example.watsapclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514249121722-813i3heca6jerdj642nt3a1lt836htqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrwl34cv3oFvjeoio8RiTuWIhPq7x5_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514249121722-813i3heca6jerdj642nt3a1lt836htqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
